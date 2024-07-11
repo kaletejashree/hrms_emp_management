@@ -1,0 +1,33 @@
+.navbar {
+    background-color: #343a40;
+  }
+  
+  .nav-link {
+    color: #ffffff !important;
+  }
+  
+  .nav-link:hover {
+    background-color: #495057;
+    color: #ffffff !important;
+  }
+  
+  .nav-item {
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+  
+  .btn-outline-light {
+    border-color: #f00707;
+    color: #fcfcfc;
+    background-color: #f00707;
+  }
+  
+  .btn-outline-light:hover {
+    background-color: #ff9595;
+    color: #343a40;
+  }
+  
+  .container-fluid {
+    margin-top: 20px;
+  }
+  
